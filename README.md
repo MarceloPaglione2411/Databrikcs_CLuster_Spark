@@ -9,5 +9,7 @@ Essa Infra é composta:
 1 Cluster Spark composto 1 Node e 2 Workers (AUTOSCALE): Recurso para processamento distribuido
 
 # Recomendações
+Desligar clusters quando não estão em uso é uma prática recomendada para evitar custos desnecessários, especialmente em ambientes de nuvem, onde os clusters são cobrados com base no tempo de execução.
+# autotermination_minutes = 10 
 
 
