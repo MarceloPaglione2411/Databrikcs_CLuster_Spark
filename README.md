@@ -15,6 +15,7 @@ Desligar clusters quando não estão em uso é uma prática recomendada para evi
 Um All Purpose é uma opção para reduzir custos e simplificar o gerenciamento de recursos, especialmente em ambientes onde múltiplos usuários ou equipes precisam acessar o mesmo cluster.
 # node_type_id = "Standard_DS3_v2"
 
+![Minha Imagem](Cluster1.jpg)
 
 
 
