@@ -12,4 +12,9 @@ Essa Infra é composta:
 Desligar clusters quando não estão em uso é uma prática recomendada para evitar custos desnecessários, especialmente em ambientes de nuvem, onde os clusters são cobrados com base no tempo de execução.
 # autotermination_minutes = 10 
 
+Um All Purpose é uma opção para reduzir custos e simplificar o gerenciamento de recursos, especialmente em ambientes onde múltiplos usuários ou equipes precisam acessar o mesmo cluster.
+# node_type_id = "Standard_DS3_v2"
+
+
+
 
